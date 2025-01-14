@@ -1,0 +1,109 @@
+{
+    "estados": [
+      {
+        "estado": "Acre",
+        "imagem_estado": "caminho/para/imagem/acre.jpg"
+      },
+      {
+        "estado": "Alagoas",
+        "imagem_estado": "caminho/para/imagem/alagoas.jpg"
+      },
+      {
+        "estado": "Amapá",
+        "imagem_estado": "caminho/para/imagem/amapa.jpg"
+      },
+      {
+        "estado": "Amazonas",
+        "imagem_estado": "caminho/para/imagem/amazonas.jpg"
+      },
+      {
+        "estado": "Bahia",
+        "imagem_estado": "caminho/para/imagem/bahia.jpg"
+      },
+      {
+        "estado": "Ceará",
+        "imagem_estado": "caminho/para/imagem/ceara.jpg"
+      },
+      {
+        "estado": "Espírito Santo",
+        "imagem_estado": "caminho/para/imagem/espirito_santo.jpg"
+      },
+      {
+        "estado": "Goiás",
+        "imagem_estado": "caminho/para/imagem/goias.jpg"
+      },
+      {
+        "estado": "Maranhão",
+        "imagem_estado": "caminho/para/imagem/maranhao.jpg"
+      },
+      {
+        "estado": "Mato Grosso",
+        "imagem_estado": "caminho/para/imagem/mato_grosso.jpg"
+      },
+      {
+        "estado": "Mato Grosso do Sul",
+        "imagem_estado": "caminho/para/imagem/mato_grosso_do_sul.jpg"
+      },
+      {
+        "estado": "Minas Gerais",
+        "imagem_estado": "caminho/para/imagem/minas_gerais.jpg"
+      },
+      {
+        "estado": "Pará",
+        "imagem_estado": "caminho/para/imagem/para.jpg"
+      },
+      {
+        "estado": "Paraíba",
+        "imagem_estado": "caminho/para/imagem/paraiba.jpg"
+      },
+      {
+        "estado": "Paraná",
+        "imagem_estado": "caminho/para/imagem/parana.jpg"
+      },
+      {
+        "estado": "Pernambuco",
+        "imagem_estado": "caminho/para/imagem/pernambuco.jpg"
+      },
+      {
+        "estado": "Piauí",
+        "imagem_estado": "caminho/para/imagem/piaui.jpg"
+      },
+      {
+        "estado": "Rio de Janeiro",
+        "imagem_estado": "caminho/para/imagem/rio_de_janeiro.jpg"
+      },
+      {
+        "estado": "Rio Grande do Norte",
+        "imagem_estado": "caminho/para/imagem/rio_grande_do_norte.jpg"
+      },
+      {
+        "estado": "Rio Grande do Sul",
+        "imagem_estado": "caminho/para/imagem/rio_grande_do_sul.jpg"
+      },
+      {
+        "estado": "Rondônia",
+        "imagem_estado": "caminho/para/imagem/rondonia.jpg"
+      },
+      {
+        "estado": "Roraima",
+        "imagem_estado": "caminho/para/imagem/roraima.jpg"
+      },
+      {
+        "estado": "Santa Catarina",
+        "imagem_estado": "caminho/para/imagem/santa_catarina.jpg"
+      },
+      {
+        "estado": "São Paulo",
+        "imagem_estado": "caminho/para/imagem/sao_paulo.jpg"
+      },
+      {
+        "estado": "Sergipe",
+        "imagem_estado": "caminho/para/imagem/sergipe.jpg"
+      },
+      {
+        "estado": "Tocantins",
+        "imagem_estado": "caminho/para/imagem/tocantins.jpg"
+      }
+    ]
+  }
+  
