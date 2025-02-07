@@ -19,6 +19,41 @@
   </p>
 </p>
 
+## 📌 Organograma
+
+---
+
+### 👑 Diretores
+
+#### 🎯 Gerais
+- **Yagor Vitor**  
+- **Luiz Leli**  
+
+#### 🎨 Criativo e Estilo
+- **Yuri Fernandes dos Santos**  
+- **Marco Gramari**  
+
+#### 💻 Programação e Git
+- **Samuel Fernandes Filho**  
+
+---
+
+### 👥 Integrantes
+
+#### 🎨 Criativo e Estilo
+- **Yasmim**  
+- **Sarah**  
+- **Luana**  
+- **Victor**  
+- **Sophia**  
+- **Maria**  
+
+#### 💻 Programação
+- **Nalany**  
+- **Manuela**  
+- **Miguel**  
+
+
 ##  História
 
 A historia do jogo se passa em um reino europeu muito antigo, onde havia muitos relatos dos moradores que afirmavam desaparecimentos durante a noite e mortes misteriosas.
