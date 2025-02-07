@@ -26,14 +26,14 @@ No jogo os jogadores são divididos em duas equipes: os moradores do vilarejo e 
 
 O jogo se alterna entre o dia e a noite. Durante o noite as criaturas escolhem moradores do vilarejo para matar. Durante o dia, os jogadores votam em um jogador que suspeitam ser a criatura.
 
-### Tecnologias
+### Linguagens usadas
 <p display="inline-block">
   <img width="48" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png'>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="blazor-logo"/>
   <img width="48" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s" alt="blazor-logo"/>
 </p>
                                                                                                   
-### Development Tools
+### Ferramenta de desenvolvimento
 
 <p display="inline-block">
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>
