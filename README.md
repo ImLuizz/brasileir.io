@@ -19,13 +19,15 @@
   </p>
 </p>
 
-##  About this project
+##  História
 
-This is a repository used as a base to show the operation of Issues, Discussions, Wiki and other GitHub resources in addition to code versioning..
+A historia do jogo se passa em um reino europeu muito antigo, onde havia muitos relatos dos moradores que afirmavam desaparecimentos durante a noite e mortes misteriosas.
 
-The project inserted into this repository is a pre-existing template and is used as a basis for displaying statistical data about it.
+Nossos responsáveis são os vampiros, bruxas, entre outras criaturas que nesse reino habitam. Tendo como sua fonte inicial de toda desgraça a bela e imortal Condessa, ela tem como objetivo a proliferação de sua própria espécie.
 
-### Technologies
+A Condessa busca a séculos a formação de um reino somente com seus iguais, ou seja, um reino somente composto por criaturas, a exterminação dos humanos é algo crucial para seu objetivo se concretizar.
+
+### Tecnologias
 <p display="inline-block">
   <img width="48" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="csharp-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor-logo"/>
@@ -34,9 +36,7 @@ The project inserted into this repository is a pre-existing template and is used
 ### Development Tools
 
 <p display="inline-block">
-  <img width="48" src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg" alt="vs-logo"/>
   <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode-logo"/>
-  <img width="48" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="rider-logo"/>
 </p>
 
 ## Running
