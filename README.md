@@ -22,6 +22,10 @@ Nossos responsáveis são os vampiros, bruxas, entre outras criaturas que nesse 
 
 A Condessa busca a séculos a formação de um reino somente com seus iguais, ou seja, um reino somente composto por criaturas, a exterminação dos humanos é algo crucial para seu objetivo se concretizar.
 
+No jogo os jogadores são divididos em duas equipes: os moradores do vilarejo e as criaturas, os moradores tentam descobrir quem são as criaturas infiltradas e tentam eliminá-las sem serem descobertos.
+
+O jogo se alterna entre o dia e a noite. Durante o noite as criaturas escolhem moradores do vilarejo para matar. Durante o dia, os jogadores votam em um jogador que suspeitam ser a criatura.
+
 ### Tecnologias
 <p display="inline-block">
   <img width="48" src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png'>
