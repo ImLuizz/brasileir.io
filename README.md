@@ -1,7 +1,6 @@
-<h1 align="center">Article Model</h1>
-<p align="center"><i>Repository for versioning and project documentation used during the series of articles on GitHub.</i></p>
+<h1 align="center">A Condessa</h1>
+<p align="center"><i>Condessa é um jogo de dedução social que se baseia em mitologia e papeis históricos. Tem como temática a luta entre o povo e as criaturas infiltradas.</i></p>
 
-Para finalizar o nosso README podemos adicionar estatísticas sobre o repositório como Linguagem mais utilizada, Número de linguagens presentes, qualidade do código e muitas outras através da ferramenta oferecida pela Codacy. Não abordaremos aqui como cadastrar seu repositório e ter acesso a estas estatísticas já que no site deles já tem uma documentação completa sobre isto. Veja como fica:
 
 <p align="center" display="inline-block">
   <img src="https://img.shields.io/github/languages/top/Editora-Artigos/article-model" alt="top-language"/>
