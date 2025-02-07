@@ -41,9 +41,7 @@ cd app
 flask run
 ```
 
-## References
-[About issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+## Mais conteúdo
+Wiki Oficial - [Pagina Inicial](https://github.com/Samuel-fernandesf/Jogo-Lobisomem/wiki/P%C3%A1gina-Inicial)
 
-[About wikis - GitHub Docs](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
-
-[About discussions - GitHub Docs](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+Equipe de desenvolvimento - [Integrantes](https://github.com/Samuel-fernandesf/Jogo-Lobisomem/wiki/Equipe)
