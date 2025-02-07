@@ -10,11 +10,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Samuel-fernandesf/Jogo-Lobisomem">
   </a>
 
-  <a href="https://github.com/Editora-Artigos/article-model">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Editora-Artigos/article-model.svg">
-  </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/Editora-Artigos/article-model.svg">
   </p>
 </p>
 
